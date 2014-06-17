@@ -1,15 +1,3 @@
-'use strict';
-
-/*
- *************************************************************
- * INSTRUCTIONS
- * 
- * Go to your terminal and use "grunt" to deploy the site 
- * locally and start developing
- *
- *************************************************************
- */
-
 module.exports = function(grunt) {
     // Used for loading all of your grunt plugins
     require('load-grunt-tasks')(grunt);
